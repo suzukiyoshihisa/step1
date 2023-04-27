@@ -34,6 +34,8 @@ Slackでの質問もお気軽にどうぞ。
 テキスト部分と枠線のカラーコードに関しては、自由に設定してください。
 
 ブラウザに以下のような表示ができれば完成です。
+### ▼ブラウザ表示
+https://suzukiyoshihisa.github.io/step1/
 <img width="1019" alt="スクリーンショット 2023-04-27 17 30 25" src="https://user-images.githubusercontent.com/15147207/234805658-f3e3f761-f516-4cfd-9b49-63743a082af0.png">
 
 
